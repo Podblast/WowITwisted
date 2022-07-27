@@ -1,0 +1,9 @@
+## Interface: 20504
+## Title: WowITwisted
+## Author: Podblast-Tranzalore
+## Version: 1.1.1
+
+main.lua
+
+#When loaded the addon will listen for sucessful seal twists.
+#Bonus sound available in 2 out of 100 Twists, inspired by Namana-Yojamba. (Gratsmate!).
